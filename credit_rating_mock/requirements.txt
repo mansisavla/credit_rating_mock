@@ -1,0 +1,2 @@
+# Required Python packages
+coverage>=7.0
